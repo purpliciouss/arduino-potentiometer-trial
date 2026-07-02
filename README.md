@@ -46,7 +46,8 @@ void loop() {
 
 <img width="492" height="272" alt="Screenshot 2026-07-02 at 13 07 41" src="https://github.com/user-attachments/assets/a2f42472-d0c1-4757-b6fb-ce9a7bcf597d" />
 
-** note: you can open Serial Monitor with ```Ctrl + Shift + M``` or ```Command + Shift + M```
+
+> **Note:** you can open Serial Monitor with ```Ctrl + Shift + M``` or ```Command + Shift + M```
 
 ## License
 
